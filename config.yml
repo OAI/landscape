@@ -1,0 +1,7 @@
+landscapeMemberClasses: 
+  - name: Participating Membership
+    category: General
+  - name: Academic or Non-Profit Membership
+    category: Associate
+slug: openapi
+landscapeMemberCategory: OpenAPI Initiative Members

@@ -4,7 +4,7 @@
 #
 # Reference documentation: https://github.com/cncf/landscape2/blob/main/docs/config/settings.yml
 
-foundation: DEMO
+foundation: OpenAPI
 
 url: http://127.0.0.1:8000
 
@@ -26,25 +26,21 @@ featured_items:
 
 footer:
   links:
-    facebook: "https://www.facebook.com/CloudNativeComputingFoundation/"
     flickr: "https://www.flickr.com/photos/143247548@N03/albums"
-    github: "https://github.com/cncf"
-    homepage: "https://cncf.io"
-    instagram: "https://www.instagram.com/humans.of.cloudnative/"
-    linkedin: "https://www.linkedin.com/company/cloud-native-computing-foundation/"
-    slack: "https://slack.cncf.io/"
-    twitch: "https://www.twitch.tv/cloudnativefdn"
-    twitter: "https://twitter.com/cloudnativefdn"
-    wechat: "https://www.cncf.io/wechat/"
-    youtube: "https://www.youtube.com/c/cloudnativefdn"
-  logo: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/horizontal/white/cncf-white.svg"
+    github: "https://github.com/oai"
+    homepage: "https://openapis.org"
+    linkedin: "https://www.linkedin.com/company/open-api-initiative/"
+    slack: "https://slack.openapis.org/"
+    twitter: "https://twitter.com/OpenApiSpec"
+    youtube: "https://www.youtube.com/@OpenApi"
+  logo: "https://raw.githubusercontent.com/OAI/landscape/refs/heads/main/img/OpenAPI_Logo_White.svg"
 
 grid_items_size: large
 
 
 header:
   links:
-    github: "https://github.com/cncf/landscape2"
-  logo: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf-landscape/horizontal/color/cncf-landscape-horizontal-color.svg"
+    github: "https://github.com/OAI/landscape"
+  logo: "https://raw.githubusercontent.com/OAI/landscape/refs/heads/main/img/OpenAPI_Logo_Pantone.svg"
 
 screenshot_width: 1500

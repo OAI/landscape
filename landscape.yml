@@ -255,12 +255,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/geek-zone
           - item:
             name: Her Majesty's Government
-            homepage_url: https://digital.cabinet-office.gov.uk/
-            project: null
             logo: her_majesty_s_government.svg
             twitter: https://twitter.com/GOVUK
-            organization:
-              name: Her Majesty's Government
+            homepage_url: https://gov.uk/
+            crunchbase: https://www.crunchbase.com/organization/uk-government
+            project: null
           - item:
             name: High School Technology Services
             homepage_url: https://myhsts.org/

@@ -33,8 +33,7 @@ landscape:
             homepage_url: https://avapframework.com/
             project: null
             logo: avap.svg
-            organization:
-              name: AVAP
+            crunchbase: https://www.crunchbase.com/organization/101obex
           - item:
             name: Bloomberg Finance L.P.
             homepage_url: https://techatbloomberg.com/

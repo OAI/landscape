@@ -8,21 +8,18 @@ landscape:
           - item:
             name: 42Crunch
             homepage_url: https://42crunch.com/
-            project: null
             logo: 42crunch.svg
             twitter: https://twitter.com/42crunch
             crunchbase: https://www.crunchbase.com/organization/42crunch
           - item:
             name: Acumatica Inc.
             homepage_url: https://acumatica.com/
-            project: null
             logo: acumatica_inc.svg
             twitter: https://twitter.com/Acumatica
             crunchbase: https://www.crunchbase.com/organization/acumatica
           - item:
             name: APIIDA AG
             homepage_url: https://apiida.com/
-            project: null
             logo: apiida_ag.svg
             twitter: https://twitter.com/APIIDA_AG
             organization:
@@ -31,27 +28,23 @@ landscape:
           - item:
             name: AVAP
             homepage_url: https://avapframework.com/
-            project: null
             logo: avap.svg
             crunchbase: https://www.crunchbase.com/organization/101obex
           - item:
             name: Bloomberg Finance L.P.
             homepage_url: https://techatbloomberg.com/
-            project: null
             logo: bloomberg_finance_l_p.svg
             twitter: https://twitter.com/business
             crunchbase: https://www.crunchbase.com/organization/bloomberg
           - item:
             name: Briscola Inc.
             homepage_url: https://briscola-api.com/
-            project: null
             logo: briscola_inc.svg
             organization:
               name: Briscola Inc.
           - item:
             name: bump.sh
             homepage_url: https://bump.sh/
-            project: null
             logo: bump.svg
             twitter: https://twitter.com/bump_hq
             organization:
@@ -60,77 +53,66 @@ landscape:
           - item:
             name: Cisco Systems, Inc.
             homepage_url: https://cisco.com/
-            project: null
             logo: cisco_systems_inc.svg
             twitter: https://twitter.com/Cisco
             crunchbase: https://www.crunchbase.com/organization/cisco
           - item:
             name: eBay, Inc.
             homepage_url: https://ebay.com/
-            project: null
             logo: ebay_inc.svg
             twitter: https://twitter.com/eBay
             crunchbase: https://www.crunchbase.com/organization/ebay
           - item:
             name: Flotiq LLC
             homepage_url: https://flotiq.com/
-            project: null
             logo: flotiq_llc.svg
             twitter: https://twitter.com/flotiq
             crunchbase: https://www.crunchbase.com/organization/flotiq
           - item:
             name: Getting APIs to Work
             homepage_url: https://gettingapistowork.io/
-            project: null
             logo: getting_apis_to_work.svg
             organization:
               name: Getting APIs to Work
           - item:
             name: Google LLC
             homepage_url: https://google.com/
-            project: null
             logo: google_llc.svg
             twitter: https://twitter.com/Google
             crunchbase: https://www.crunchbase.com/organization/google
           - item:
             name: IFS World Operations AB
             homepage_url: https://ifsworld.com/
-            project: null
             logo: ifs_world_operations_ab.svg
             twitter: https://twitter.com/ifs
             crunchbase: https://www.crunchbase.com/organization/hgcapital
           - item:
             name: International Business Machines Corporation
             homepage_url: https://ibm.com/
-            project: null
             logo: international_business_machines_corporation.svg
             twitter: https://twitter.com/IBM
             crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
             name: Kong Inc.
             homepage_url: https://konghq.com/
-            project: null
             logo: kong_inc.svg
             twitter: https://twitter.com/thekonginc
             crunchbase: https://www.crunchbase.com/organization/konghq
           - item:
             name: Level 250, Inc.
             homepage_url: https://level250.com/
-            project: null
             logo: level_250_inc.svg
             twitter: https://twitter.com/level_250
             crunchbase: https://www.crunchbase.com/organization/level-250
           - item:
             name: Microsoft Corporation
             homepage_url: https://microsoft.com/
-            project: null
             logo: microsoft_corporation.svg
             twitter: https://twitter.com/Microsoft
             crunchbase: https://www.crunchbase.com/organization/microsoft
           - item:
             name: Osaango
             homepage_url: https://osaango.com/
-            project: null
             logo: osaango.svg
             twitter: https://twitter.com/OsaangoLtd
             organization:
@@ -139,7 +121,6 @@ landscape:
           - item:
             name: Platformatic
             homepage_url: https://platformatic.dev/
-            project: null
             logo: platformatic.svg
             twitter: https://twitter.com/platformatic
             organization:
@@ -148,28 +129,24 @@ landscape:
           - item:
             name: Postman
             homepage_url: https://postman.com/
-            project: null
             logo: postman.svg
             twitter: https://twitter.com/getpostman
             crunchbase: https://www.crunchbase.com/organization/postman
           - item:
             name: RapidAPI
             homepage_url: https://rapidapi.com/
-            project: null
             logo: rapidapi.svg
             twitter: https://twitter.com/Rapid_API
             crunchbase: https://www.crunchbase.com/organization/rapidapi
           - item:
             name: Red Hat, Inc.
             homepage_url: https://redhat.com/
-            project: null
             logo: red_hat_inc.svg
             twitter: https://twitter.com/RedHat
             crunchbase: https://www.crunchbase.com/organization/red-hat
           - item:
             name: Redocly Inc
             homepage_url: https://redocly.com/
-            project: null
             logo: redocly_inc.svg
             organization:
               name: Redocly Inc
@@ -177,21 +154,18 @@ landscape:
           - item:
             name: Salesforce.com, Inc.
             homepage_url: https://salesforce.com/
-            project: null
             logo: salesforce_com_inc.svg
             twitter: https://twitter.com/salesforce
             crunchbase: https://www.crunchbase.com/organization/salesforce
           - item:
             name: SAP SE
             homepage_url: https://sap.com/
-            project: null
             logo: sap_se.svg
             twitter: https://twitter.com/SAP
             crunchbase: https://www.crunchbase.com/organization/sap
           - item:
             name: Scalar
             homepage_url: https://scalar.com/
-            project: null
             logo: scalar.svg
             organization:
               name: Scalar
@@ -199,28 +173,24 @@ landscape:
           - item:
             name: SmartBear Software, Inc.
             homepage_url: https://smartbear.com/
-            project: null
             logo: smartbear_software_inc.svg
             twitter: https://twitter.com/SmartBear
             crunchbase: https://www.crunchbase.com/organization/smart-bear-software
           - item:
             name: Speakeasy Development, Inc.
             homepage_url: https://speakeasyapi.dev/
-            project: null
             logo: speakeasy_development_inc.svg
             twitter: https://twitter.com/speakeasydev
             crunchbase: https://www.crunchbase.com/organization/speakeasy-1055
           - item:
             name: Treblle Limited
             homepage_url: https://treblle.com/
-            project: null
             logo: treblle_limited.svg
             twitter: https://twitter.com/treblleapi
             crunchbase: https://www.crunchbase.com/organization/treblle
           - item:
             name: Tyk Technologies Ltd.
             homepage_url: https://tyk.io/
-            project: null
             logo: tyk_technologies_ltd.svg
             twitter: https://twitter.com/tyk_io
             crunchbase: https://www.crunchbase.com/organization/tyk-io
@@ -230,7 +200,6 @@ landscape:
           - item:
             name: apiaddicts
             homepage_url: https://apiaddicts.org/
-            project: null
             logo: apiaddicts.svg
             twitter: https://twitter.com/APIAddicts
             organization:
@@ -239,7 +208,6 @@ landscape:
           - item:
             name: Feynman Foundation
             homepage_url: https://feynmanfoundation.org/
-            project: null
             logo: feynman_foundation.svg
             twitter: https://twitter.com/FeynmanPUF
             organization:
@@ -248,35 +216,30 @@ landscape:
           - item:
             name: Geek.Zone
             homepage_url: https://geek.zone/
-            project: null
             logo: geek.svg
             twitter: https://twitter.com/GeekZone
             crunchbase: https://www.crunchbase.com/organization/geek-zone
           - item:
             name: Her Majesty's Government
             homepage_url: https://gov.uk/
-            project: null
             logo: her_majesty_s_government.svg
             twitter: https://twitter.com/GOVUK
             crunchbase: https://www.crunchbase.com/organization/uk-government
           - item:
             name: High School Technology Services
             homepage_url: https://myhsts.org/
-            project: null
             logo: high_school_technology_services.svg
             twitter: https://twitter.com/MyHSTS
             crunchbase: https://www.crunchbase.com/organization/high-school-technical-services
           - item:
             name: ISA Research Group
             homepage_url: https://isa.us.es/
-            project: null
             logo: isa_research_group.svg
             twitter: https://twitter.com/unisevilla
             crunchbase: https://www.crunchbase.com/organization/university-of-seville
           - item:
             name: NHSX
             homepage_url: https://nhs.net/
-            project: null
             logo: nhsx.svg
             organization:
               name: NHSX
@@ -284,21 +247,18 @@ landscape:
           - item:
             name: Ocean Networks Canada
             homepage_url: https://oceannetworks.ca/
-            project: null
             logo: ocean_networks_canada.svg
             twitter: https://twitter.com/Ocean_Networks
             crunchbase: https://www.crunchbase.com/organization/ocean-networks-canada
           - item:
             name: OpenTravel Alliance
             homepage_url: https://opentravel.org/
-            project: null
             logo: opentravel_alliance.svg
             twitter: https://twitter.com/OpenTravel
             crunchbase: https://www.crunchbase.com/organization/open-travel
           - item:
             name: udgi foundation
             homepage_url: https://udgifoundation.org/
-            project: null
             logo: udgi_foundation.svg
             twitter: https://twitter.com/udgi_foundation
             organization:
@@ -307,7 +267,6 @@ landscape:
           - item:
             name: University of Limerick
             homepage_url: https://ul.ie/
-            project: null
             logo: university_of_limerick.svg
             twitter: https://twitter.com/UL
             crunchbase: https://www.crunchbase.com/organization/university-of-limerick-2

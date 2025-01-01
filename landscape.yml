@@ -15,29 +15,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/42crunch
           - item:
-            name: Acumatica Inc.
-            description: >-
-              Acumatica ERP delivers adaptable cloud and mobile technology with a unique all-inclusive user licensing model, enabling a complete, real time view
-              of your business anytime, anywhere. Through our worldwide network of partners, Acumatica provides the full suite of integrated business management
-              applications, including Financials, Distribution, Manufacturing, Project Accounting, and CRM.
-            homepage_url: https://acumatica.com/
-            logo: acumatica_inc.svg
-            twitter: https://twitter.com/Acumatica
-            crunchbase: https://www.crunchbase.com/organization/acumatica
-            extra:
-              linkedin_url: https://www.linkedin.com/company/acumatica
-          - item:
-            name: APIIDA AG
-            description: APIIDA AG - The Experts for API and Integration Engineering. We Power the Digital Value Chain by Connecting Systems, Identities and Data.
-            homepage_url: https://apiida.com/
-            logo: apiida_ag.svg
-            twitter: https://twitter.com/APIIDA_AG
-            extra:
-              linkedin_url: https://www.linkedin.com/company/apiida
-            organization:
-              name: APIIDA AG
-              linkedin: https://www.linkedin.com/company/apiida
-          - item:
             name: AVAP
             description: >-
               AVAP Framework is a powerful suite that manages the full API lifecycle, design, development, and maintenance. Central to this is AVAP (Advanced
@@ -196,17 +173,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/microsoft
           - item:
-            name: Osaango
-            description: With API economy based on interfaces and new business models, you can change and grow your business 10 times faster than before.
-            homepage_url: https://osaango.com/
-            logo: osaango.svg
-            twitter: https://twitter.com/OsaangoLtd
-            extra:
-              linkedin_url: https://www.linkedin.com/company/osaango
-            organization:
-              name: Osaango
-              linkedin: https://www.linkedin.com/company/osaango
-          - item:
             name: Platformatic
             description: >-
               Platformatic is a company that offers a 'batteries included' developer experience with best practices for building APIs, including REST/OpenAPI or
@@ -228,17 +194,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/postman
             extra:
               linkedin_url: https://www.linkedin.com/company/postman-platform
-          - item:
-            name: RapidAPI
-            description: >-
-              Use RapidAPI to Find, Connect, & Share 1000s of APIs using our Multi-cloud platform. Improve Developer Experience with API Design, Testing,
-              Monitoring, & More!
-            homepage_url: https://rapidapi.com/
-            logo: rapidapi.svg
-            twitter: https://twitter.com/Rapid_API
-            crunchbase: https://www.crunchbase.com/organization/rapidapi
-            extra:
-              linkedin_url: https://www.linkedin.com/company/rapidapi
           - item:
             name: Red Hat, Inc.
             description: >-

@@ -62,18 +62,6 @@ landscape:
               name: bump.sh
               linkedin: https://www.linkedin.com/company/bump-sh
           - item:
-            name: Cisco Systems, Inc.
-            description: >-
-              Cisco (NASDAQ: CSCO) is the worldwide technology leader that has been making the Internet work since 1984. Their people, products, and partners
-              help society securely connect and seize tomorrow's digital opportunity today. Cisco and the Cisco logo are trademarks or registered trademarks of
-              Cisco and/or its affiliates in the U.S. and other countries.
-            homepage_url: https://cisco.com/
-            logo: cisco_systems_inc.svg
-            twitter: https://twitter.com/Cisco
-            crunchbase: https://www.crunchbase.com/organization/cisco
-            extra:
-              linkedin_url: https://www.linkedin.com/company/cisco
-          - item:
             name: eBay, Inc.
             description: >-
               eBay is a multinational internet consumer-to-consumer corporation with operations localized in over 30 countries. The company manages eBay.com, an

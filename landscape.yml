@@ -91,6 +91,18 @@ landscape:
             organization:
               name: Getting APIs to Work
           - item:
+            name: Gitbook
+            description: >-
+              GitBook is a modern documentation platform that makes it easy to research, plan, and document products, from start to ship. It helps teams
+              centralize and share knowledge, from API references to code guidelines and product overviews.
+            homepage_url: https://gitbook.com/
+            logo: gitbook.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/gitbook
+            organization:
+              name: Gitbook
+              linkedin: https://www.linkedin.com/company/gitbook
+          - item:
             name: Google LLC
             description: >-
               Founded in 1998, Google, Inc. is a multinational corporation that provides Internet-related services and products, including an internet search

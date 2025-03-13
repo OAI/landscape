@@ -161,6 +161,18 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/level-250
           - item:
+            name: LFOD Integration Services
+            description: >-
+              LFOD Integration Services provides technical and operational professional services aimed at enhancing personal and mobile transportation networks
+              by offering multimodal choices and improving data collection, analysis, and decision-making for transporta...
+            homepage_url: https://lfod.io/
+            logo: lfod_integration_services.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mobility-connectors
+            organization:
+              name: LFOD Integration Services
+              linkedin: https://www.linkedin.com/company/mobility-connectors
+          - item:
             name: Microsoft Corporation
             description: >-
               The Microsoft Corporation is a publicly owned American software corporation headquartered in Redmond, Washington. Founded in 1975, the company

@@ -163,8 +163,8 @@ landscape:
           - item:
             name: LFOD Integration Services
             description: >-
-              LFOD Integration Services provides technical and operational professional services aimed at enhancing personal and mobile transportation networks
-              by offering multimodal choices and improving data collection, analysis, and decision-making for transporta...
+              LFOD Integration Services provides technical and operational professional services to connect transportation networks to reduce delays and provide
+              a safe and reliable journey for drivers.  LFOD is an ambassador for open APIs and is a proud supporter of the OPEN API Initiative
             homepage_url: https://lfod.io/
             logo: lfod_integration_services.svg
             extra:

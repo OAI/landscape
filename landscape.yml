@@ -141,6 +141,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ibm
           - item:
+            name: Jentic Technology Limited
+            homepage_url: https://jentic.com/
+            logo: jentic_technology_limited.svg
+            organization:
+              name: Jentic Technology Limited
+          - item:
             name: Kong Inc.
             description: >-
               Kong Inc. is the microservices API company. We are best known as the creator and primary supporter of the Kong platform, the most widely adopted

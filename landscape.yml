@@ -146,6 +146,8 @@ landscape:
             logo: jentic_technology_limited.svg
             organization:
               name: Jentic Technology Limited
+            description: Jentic is building the bridge between the AI World and the API World, providing agents with targeted, repeatable, and efficient workflows. Jentic 
+              agents are built on OpenAPI and Arazzo, making these specifications crucial building blocks in the Jentic platform.
           - item:
             name: Kong Inc.
             description: >-

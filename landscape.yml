@@ -15,6 +15,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/42crunch
           - item:
+            name: Apideck
+            description: Apideck redefines API integration, enabling developers to build integrations 100 times faster through a single API.
+            homepage_url: https://apideck.com/
+            logo: apideck.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/apideck
+            organization:
+              name: Apideck
+              linkedin: https://www.linkedin.com/company/apideck
+          - item:
             name: AVAP
             description: >-
               AVAP Framework is a powerful suite that manages the full API lifecycle, design, development, and maintenance. Central to this is AVAP (Advanced
@@ -73,17 +83,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/ebay
             extra:
               linkedin_url: https://www.linkedin.com/company/ebay
-          - item:
-            name: Flotiq LLC
-            description: >-
-              Flotiq is an API-first content management platform that works with any technology, framework, and language. Enjoy fast and painless content
-              delivery to any channel with our headless CMS platform.
-            homepage_url: https://flotiq.com/
-            logo: flotiq_llc.svg
-            twitter: https://twitter.com/flotiq
-            crunchbase: https://www.crunchbase.com/organization/flotiq
-            extra:
-              linkedin_url: https://www.linkedin.com/company/flotiq
           - item:
             name: Getting APIs to Work
             homepage_url: https://gettingapistowork.io/
@@ -156,7 +155,7 @@ landscape:
             twitter: https://twitter.com/thekonginc
             crunchbase: https://www.crunchbase.com/organization/konghq
             extra:
-              linkedin_url: https://www.linkedin.com/company/konghq/
+              linkedin_url: https://www.linkedin.com/company/mashape
           - item:
             name: Level 250, Inc.
             description: API consulting
@@ -344,15 +343,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/speakeasyapi
           - item:
-            name: Treblle Limited
-            description: Treblle makes it super easy to understand what’s going on with your APIs and the apps that use them.
-            homepage_url: https://treblle.com/
-            logo: treblle_limited.svg
-            twitter: https://twitter.com/treblleapi
-            crunchbase: https://www.crunchbase.com/organization/treblle
-            extra:
-              linkedin_url: https://www.linkedin.com/company/treblle
-          - item:
             name: Tyk Technologies Ltd.
             description: >-
               Our open source API Gateway is fast, scalable and modern. We offer an API Management Platform with an API Gateway, API Analytics, Dev Portal and
@@ -476,8 +466,6 @@ landscape:
             logo: high_school_technology_services.svg
             twitter: https://twitter.com/MyHSTS
             crunchbase: https://www.crunchbase.com/organization/high-school-technical-services
-            extra:
-              linkedin_url: https://www.linkedin.com/company/techsavvy-coders
           - item:
             name: ISA Research Group
             description: >-
@@ -555,11 +543,8 @@ landscape:
             homepage_url: https://udgifoundation.org/
             logo: udgi_foundation.svg
             twitter: https://twitter.com/udgi_foundation
-            extra:
-              linkedin_url: https://www.linkedin.com/company/udgi-foundation
             organization:
               name: udgi foundation
-              linkedin: https://www.linkedin.com/company/udgi-foundation
           - item:
             name: University of Limerick
             description: The University of Limerick is a higher education institution in Limerick, Ireland.

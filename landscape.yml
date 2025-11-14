@@ -7,80 +7,63 @@ landscape:
         items:
           - item:
             name: 42Crunch
-            description: less than 10 employees... OAI $500 + nonLF member fee or $5,000 LF Silver membership.  $1,000 total or $5,500 total..
             homepage_url: https://42crunch.com/
             logo: 42crunch.svg
-            twitter: https://twitter.com/42crunch
+            description: less than 10 employees... OAI $500 + nonLF member fee or $5,000 LF Silver membership.  $1,000 total or $5,500 total..
             crunchbase: https://www.crunchbase.com/organization/42crunch
+            twitter: https://twitter.com/42crunch
             extra:
               linkedin_url: https://www.linkedin.com/company/42crunch
           - item:
             name: Apideck
-            description: Apideck redefines API integration, enabling developers to build integrations 100 times faster through a single API.
             homepage_url: https://apideck.com/
             logo: apideck.svg
-            extra:
-              linkedin_url: https://www.linkedin.com/company/apideck
+            description: Apideck redefines API integration, enabling developers to build integrations 100 times faster through a single API.
             organization:
               name: Apideck
               linkedin: https://www.linkedin.com/company/apideck
+            extra:
+              linkedin_url: https://www.linkedin.com/company/apideck
           - item:
             name: AVAP
-            description: >-
-              AVAP Framework is a powerful suite that manages the full API lifecycle, design, development, and maintenance. Central to this is AVAP (Advanced
-              Virtual API Programming), a specialized API programming language designed to create virtual APIs. With AI at its core, Brunix, AVAP's advanced AI
-              engine, intelligently optimizes processes and predicts solutions. Universally compatible, AVAP Framework integrates seamlessly with other
-              technologies, providing a flexible, efficient solution that optimizes resources while enabling scalable and secure API creation and management
-              across diverse environments.
             homepage_url: https://avapframework.com/
             logo: avap.svg
+            description: AVAP Framework is a powerful suite that manages the full API lifecycle, design, development, and maintenance. Central to this is AVAP (Advanced Virtual API Programming), a specialized API programming language designed to create virtual APIs. With AI at its core, Brunix, AVAP's advanced AI engine, intelligently optimizes processes and predicts solutions. Universally compatible, AVAP Framework integrates seamlessly with other technologies, providing a flexible, efficient solution that optimizes resources while enabling scalable and secure API creation and management across diverse environments.
             crunchbase: https://www.crunchbase.com/organization/101obex
           - item:
             name: Bloomberg Finance L.P.
-            description: >-
-              Bloomberg is a privately held mass media, data, and financial software company headquartered in New York, New York. The company is best known for
-              as a provider of business and financial market news, including stock quotes, world economics, and financial advice. Bloomberg includes a global TV
-              network (Bloomberg Television), a radio station (WBBR), three magazines (Bloomberg Businessweek, Bloomberg Markets, and Bloomberg Pursuit), and a
-              wire service (Bloomberg News). The company also provides financial software tools, including data services and an analytics and equity trading
-              platform to financial companies and organizations through the Bloomberg terminal.
             homepage_url: https://techatbloomberg.com/
             logo: bloomberg_finance_l_p.svg
-            twitter: https://twitter.com/business
+            description: Bloomberg is a privately held mass media, data, and financial software company headquartered in New York, New York. The company is best known for as a provider of business and financial market news, including stock quotes, world economics, and financial advice. Bloomberg includes a global TV network (Bloomberg Television), a radio station (WBBR), three magazines (Bloomberg Businessweek, Bloomberg Markets, and Bloomberg Pursuit), and a wire service (Bloomberg News). The company also provides financial software tools, including data services and an analytics and equity trading platform to financial companies and organizations through the Bloomberg terminal.
             crunchbase: https://www.crunchbase.com/organization/bloomberg
+            twitter: https://twitter.com/business
             extra:
               linkedin_url: https://www.linkedin.com/company/bloomberg-bna
           - item:
             name: Briscola Inc.
-            description: >-
-              Briscola Inc. provides advanced API management services and consulting to support digital services and microservices with secure and scalable API
-              platforms.
             homepage_url: https://briscola-api.com/
             logo: briscola_inc.svg
+            description: Briscola Inc. provides advanced API management services and consulting to support digital services and microservices with secure and scalable API platforms.
             organization:
               name: Briscola Inc.
           - item:
             name: bump.sh
-            description: >-
-              Create a powerful human-centered workflow for your APIs. Bump documents, diffs, and validates your API changes continuously. It lets you focus on
-              what's important: building your product.
             homepage_url: https://bump.sh/
             logo: bump.svg
+            description: "Create a powerful human-centered workflow for your APIs. Bump documents, diffs, and validates your API changes continuously. It lets you focus on what's important: building your product."
             twitter: https://twitter.com/bump_hq
-            extra:
-              linkedin_url: https://www.linkedin.com/company/bump-sh
             organization:
               name: bump.sh
               linkedin: https://www.linkedin.com/company/bump-sh
+            extra:
+              linkedin_url: https://www.linkedin.com/company/bump-sh
           - item:
             name: eBay, Inc.
-            description: >-
-              eBay is a multinational internet consumer-to-consumer corporation with operations localized in over 30 countries. The company manages eBay.com, an
-              online auction and shopping website where people and businesses can buy and sell a variety of goods and services worldwide. The company also owns
-              and operates the websites Half.com, StubHub, and PayPal.
             homepage_url: https://ebay.com/
             logo: ebay_inc.svg
-            twitter: https://twitter.com/eBay
+            description: eBay is a multinational internet consumer-to-consumer corporation with operations localized in over 30 countries. The company manages eBay.com, an online auction and shopping website where people and businesses can buy and sell a variety of goods and services worldwide. The company also owns and operates the websites Half.com, StubHub, and PayPal.
             crunchbase: https://www.crunchbase.com/organization/ebay
+            twitter: https://twitter.com/eBay
             extra:
               linkedin_url: https://www.linkedin.com/company/ebay
           - item:
@@ -91,268 +74,218 @@ landscape:
               name: Getting APIs to Work
           - item:
             name: Gitbook
-            description: >-
-              GitBook is a modern documentation platform that makes it easy to research, plan, and document products, from start to ship. It helps teams
-              centralize and share knowledge, from API references to code guidelines and product overviews.
             homepage_url: https://gitbook.com/
             logo: gitbook.svg
-            extra:
-              linkedin_url: https://www.linkedin.com/company/gitbook
+            description: GitBook is a modern documentation platform that makes it easy to research, plan, and document products, from start to ship. It helps teams centralize and share knowledge, from API references to code guidelines and product overviews.
             organization:
               name: Gitbook
               linkedin: https://www.linkedin.com/company/gitbook
+            extra:
+              linkedin_url: https://www.linkedin.com/company/gitbook
           - item:
             name: Google LLC
-            description: >-
-              Founded in 1998, Google, Inc. is a multinational corporation that provides Internet-related services and products, including an internet search
-              engine, software, cloud computing, and advertising technologies.
             homepage_url: https://google.com/
             logo: google_llc.svg
-            twitter: https://twitter.com/Google
+            description: Founded in 1998, Google, Inc. is a multinational corporation that provides Internet-related services and products, including an internet search engine, software, cloud computing, and advertising technologies.
             crunchbase: https://www.crunchbase.com/organization/google
+            twitter: https://twitter.com/Google
             extra:
               linkedin_url: https://www.linkedin.com/company/google
           - item:
             name: IFS World Operations AB
-            description: IFS AB is a multinational enterprise software company headquartered in Linköping, Sweden.
             homepage_url: https://ifsworld.com/
             logo: ifs_world_operations_ab.svg
-            twitter: https://twitter.com/ifs
+            description: IFS AB is a multinational enterprise software company headquartered in Linköping, Sweden.
             crunchbase: https://www.crunchbase.com/organization/hgcapital
+            twitter: https://twitter.com/ifs
             extra:
               linkedin_url: https://www.linkedin.com/company/ifs
           - item:
             name: International Business Machines Corporation
-            description: >-
-              Founded in 1911, International Business Machines (IBM) is a multinational computer, technology, and IT consulting corporation that manufactures
-              and sells computer hardware and software, and offers infrastructure services, hosting services, and consulting services. They are headquartered in
-              Armonk, New York.
-
+            homepage_url: https://ibm.com/
+            logo: international_business_machines_corporation.svg
+            description: |-
+              Founded in 1911, International Business Machines (IBM) is a multinational computer, technology, and IT consulting corporation that manufactures and sells computer hardware and software, and offers infrastructure services, hosting services, and consulting services. They are headquartered in Armonk, New York.
 
               --- Merged Data:
 
-
               IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.
-            homepage_url: https://ibm.com/
-            logo: international_business_machines_corporation.svg
-            twitter: https://twitter.com/IBM
             crunchbase: https://www.crunchbase.com/organization/ibm
+            twitter: https://twitter.com/IBM
             extra:
               linkedin_url: https://www.linkedin.com/company/ibm
           - item:
             name: Jentic Technology Limited
-            description: >-
-              Jentic is building the bridge between the AI World and the API World, providing agents with targeted, repeatable, and efficient workflows. Jentic
-              agents are built on OpenAPI and Arazzo, making these specifications crucial building blocks in the Jentic platform.
             homepage_url: https://jentic.com/
             logo: jentic_technology_limited.svg
+            description: Jentic is building the bridge between the AI World and the API World, providing agents with targeted, repeatable, and efficient workflows. Jentic agents are built on OpenAPI and Arazzo, making these specifications crucial building blocks in the Jentic platform.
             crunchbase: https://www.crunchbase.com/organization/jentic-technology
           - item:
             name: Kong Inc.
-            description: >-
-              Kong Inc. is the microservices API company. We are best known as the creator and primary supporter of the Kong platform, the most widely adopted
-              open-source Microservice API gateway.
             homepage_url: https://konghq.com/
             logo: kong_inc.svg
-            twitter: https://twitter.com/thekonginc
+            description: Kong Inc. is the microservices API company. We are best known as the creator and primary supporter of the Kong platform, the most widely adopted open-source Microservice API gateway.
             crunchbase: https://www.crunchbase.com/organization/konghq
+            twitter: https://twitter.com/thekonginc
             extra:
               linkedin_url: https://www.linkedin.com/company/mashape
           - item:
             name: Level 250, Inc.
-            description: API consulting
             homepage_url: https://level250.com/
             logo: level_250_inc.svg
-            twitter: https://twitter.com/level_250
+            description: API consulting
             crunchbase: https://www.crunchbase.com/organization/level-250
+            twitter: https://twitter.com/level_250
             extra:
               linkedin_url: https://www.linkedin.com/company/level-250
           - item:
             name: LFOD Integration Services
-            description: >-
-              LFOD Integration Services provides technical and operational professional services to connect transportation networks to reduce delays and provide
-              a safe and reliable journey for drivers.  LFOD is an ambassador for open APIs and is a proud supporter of the OPEN API Initiative
             homepage_url: https://lfod.io/
             logo: lfod_integration_services.svg
-            extra:
-              linkedin_url: https://www.linkedin.com/company/mobility-connectors
+            description: LFOD Integration Services provides technical and operational professional services to connect transportation networks to reduce delays and provide a safe and reliable journey for drivers.  LFOD is an ambassador for open APIs and is a proud supporter of the OPEN API Initiative
             organization:
               name: LFOD Integration Services
               linkedin: https://www.linkedin.com/company/mobility-connectors
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mobility-connectors
           - item:
             name: Microsoft Corporation
-            description: >-
-              The Microsoft Corporation is a publicly owned American software corporation headquartered in Redmond, Washington. Founded in 1975, the company
-              develops, manufactures, licenses and supports a variety of computing products used by consumers and businesses. Some of their popular products
-              include Windows, Xbox, Microsoft HoloLens, Microsoft Lumia, Outlook, Skype, OneDrive and Microsoft Band.
             homepage_url: https://microsoft.com/
             logo: microsoft_corporation.svg
-            twitter: https://twitter.com/Microsoft
+            description: The Microsoft Corporation is a publicly owned American software corporation headquartered in Redmond, Washington. Founded in 1975, the company develops, manufactures, licenses and supports a variety of computing products used by consumers and businesses. Some of their popular products include Windows, Xbox, Microsoft HoloLens, Microsoft Lumia, Outlook, Skype, OneDrive and Microsoft Band.
             crunchbase: https://www.crunchbase.com/organization/microsoft
+            twitter: https://twitter.com/Microsoft
             extra:
               linkedin_url: https://www.linkedin.com/company/microsoft
           - item:
             name: Platformatic
-            description: >-
-              Platformatic is a company that offers a 'batteries included' developer experience with best practices for building APIs, including REST/OpenAPI or
-              GraphQL with more to come.
             homepage_url: https://platformatic.dev/
             logo: platformatic.svg
+            description: Platformatic is a company that offers a 'batteries included' developer experience with best practices for building APIs, including REST/OpenAPI or GraphQL with more to come.
             twitter: https://twitter.com/platformatic
-            extra:
-              linkedin_url: https://www.linkedin.com/company/platformatic
             organization:
               name: Platformatic
               linkedin: https://www.linkedin.com/company/platformatic
+            extra:
+              linkedin_url: https://www.linkedin.com/company/platformatic
           - item:
             name: Postman
-            description: Postman is an API development and testing solution created by Postdot Technologies in 2014 and is headquartered in San Francisco, California.
             homepage_url: https://postman.com/
             logo: postman.svg
-            twitter: https://twitter.com/getpostman
+            description: Postman is an API development and testing solution created by Postdot Technologies in 2014 and is headquartered in San Francisco, California.
             crunchbase: https://www.crunchbase.com/organization/postman
+            twitter: https://twitter.com/getpostman
             extra:
               linkedin_url: https://www.linkedin.com/company/postman-platform
           - item:
             name: Red Hat, Inc.
-            description: >-
-              Red Hat was established in 1993 and is headquartered in Raleigh, North Carolina. Red Hat is the provider of open source software solutions, using
-              a community-powered approach to provide reliable and high-performing cloud, Linux, middleware, storage, and virtualization technologies. Red Hat
-              also offers support, training, and consulting services. As the connective hub in a global network of enterprises, partners, and open source
-              communities, Red Hat helps create relevant, innovative technologies that liberate resources for growth and prepare customers for the future of IT.
             homepage_url: https://redhat.com/
             logo: red_hat_inc.svg
-            twitter: https://twitter.com/RedHat
+            description: Red Hat was established in 1993 and is headquartered in Raleigh, North Carolina. Red Hat is the provider of open source software solutions, using a community-powered approach to provide reliable and high-performing cloud, Linux, middleware, storage, and virtualization technologies. Red Hat also offers support, training, and consulting services. As the connective hub in a global network of enterprises, partners, and open source communities, Red Hat helps create relevant, innovative technologies that liberate resources for growth and prepare customers for the future of IT.
             crunchbase: https://www.crunchbase.com/organization/red-hat
+            twitter: https://twitter.com/RedHat
             extra:
               linkedin_url: https://www.linkedin.com/company/red-hat
           - item:
             name: Redocly Inc
-            description: Redocly is a company that provides a suite of API design and documentation tools for API producers and consumers.
             homepage_url: https://redocly.com/
             logo: redocly_inc.svg
-            extra:
-              linkedin_url: https://www.linkedin.com/company/redocly
+            description: Redocly is a company that provides a suite of API design and documentation tools for API producers and consumers.
             organization:
               name: Redocly Inc
               linkedin: https://www.linkedin.com/company/redocly
+            extra:
+              linkedin_url: https://www.linkedin.com/company/redocly
           - item:
             name: Salesforce.com, Inc.
-            description: >-
-              Salesforce.com is an enterprise cloud computing company that is leading the shift to the social enterprise. Social enterprises leverage social,
-              mobile and open cloud technologies to maximize customer support. Based on Salesforce.com's real-time, multi-tenant architecture, the company's
-              platform and application services allow customers to create employee and customer social networks, empower small business and extend a company's
-              social enterprise with applications.
             homepage_url: https://salesforce.com/
             logo: salesforce_com_inc.svg
-            twitter: https://twitter.com/salesforce
+            description: Salesforce.com is an enterprise cloud computing company that is leading the shift to the social enterprise. Social enterprises leverage social, mobile and open cloud technologies to maximize customer support. Based on Salesforce.com's real-time, multi-tenant architecture, the company's platform and application services allow customers to create employee and customer social networks, empower small business and extend a company's social enterprise with applications.
             crunchbase: https://www.crunchbase.com/organization/salesforce
+            twitter: https://twitter.com/salesforce
             extra:
               linkedin_url: https://www.linkedin.com/company/salesforce
           - item:
             name: SAP SE
-            description: >-
-              Founded in 1972, As a market leader in enterprise application software, SAP helps companies of all sizes and industries run better. From back
-              office to boardroom, warehouse to storefront, desktop to mobile device, SAP empowers people and organizations to work together more efficiently
-              and uses business insight more effectively to stay ahead of the competition. SAP applications and services enable more than 253,500 customers to
-              operate profitably, adapt continuously, and grow sustainably.
             homepage_url: https://sap.com/
             logo: sap_se.svg
-            twitter: https://twitter.com/SAP
+            description: Founded in 1972, As a market leader in enterprise application software, SAP helps companies of all sizes and industries run better. From back office to boardroom, warehouse to storefront, desktop to mobile device, SAP empowers people and organizations to work together more efficiently and uses business insight more effectively to stay ahead of the competition. SAP applications and services enable more than 253,500 customers to operate profitably, adapt continuously, and grow sustainably.
             crunchbase: https://www.crunchbase.com/organization/sap
+            twitter: https://twitter.com/SAP
             extra:
               linkedin_url: https://www.linkedin.com/company/sap
           - item:
             name: Scalar
-            description: >-
-              Scalar is a company that provides Document, Test, and Discover APIs for developers to easily document, discover, and test APIs using their
-              platform.
             homepage_url: https://scalar.com/
             logo: scalar.svg
-            extra:
-              linkedin_url: https://www.linkedin.com/company/scalar-inc
+            description: Scalar is a company that provides Document, Test, and Discover APIs for developers to easily document, discover, and test APIs using their platform.
             organization:
               name: Scalar
               linkedin: https://www.linkedin.com/company/scalar-inc
+            extra:
+              linkedin_url: https://www.linkedin.com/company/scalar-inc
           - item:
             name: SmartBear Software, Inc.
-            description: >-
+            homepage_url: https://smartbear.com/
+            logo: smartbear_software_inc.svg
+            description: |-
               Specialties
 
-
-              software quality, agile development, cloud computing, mobile development, web performance monitoring, application lifecycle management, test
-              managment, automated testing, virtualization, peer review, code review, DevOps, Web Services and API Testing, Load testing
-
+              software quality, agile development, cloud computing, mobile development, web performance monitoring, application lifecycle management, test managment, automated testing, virtualization, peer review, code review, DevOps, Web Services and API Testing, Load testing
 
 
 
               Website
 
-
               http://www.smartbear.com
-
 
 
 
               Industry
 
-
               Computer Software
-
 
 
 
               Type
 
-
               Privately Held
-
 
 
 
               Headquarters
 
-
               450 Artisan Way Somerville, MA 02145 United States
-
 
 
 
               Company Size
 
-
               201-500 employees
-
 
               --- Merged Data:
 
-
-              SmartBear Software is an American privately-held information technology company that delivers tools for application performance monitoring,
-              software development, software testing, API testing and API management.
-            homepage_url: https://smartbear.com/
-            logo: smartbear_software_inc.svg
-            twitter: https://twitter.com/SmartBear
+              SmartBear Software is an American privately-held information technology company that delivers tools for application performance monitoring, software development, software testing, API testing and API management.
             crunchbase: https://www.crunchbase.com/organization/smart-bear-software
+            twitter: https://twitter.com/SmartBear
             extra:
               linkedin_url: https://www.linkedin.com/company/smartbear-software
           - item:
             name: Speakeasy Development, Inc.
-            description: World-class Developer Experience for your API.    🐝 https://t.co/txArmj2W8x 🐝
             homepage_url: https://speakeasyapi.dev/
             logo: speakeasy_development_inc.svg
-            twitter: https://twitter.com/speakeasydev
+            description: World-class Developer Experience for your API.    🐝 https://t.co/txArmj2W8x 🐝
             crunchbase: https://www.crunchbase.com/organization/speakeasy-1055
+            twitter: https://twitter.com/speakeasydev
             extra:
               linkedin_url: https://www.linkedin.com/company/speakeasyapi
           - item:
             name: Tyk Technologies Ltd.
-            description: >-
-              Our open source API Gateway is fast, scalable and modern. We offer an API Management Platform with an API Gateway, API Analytics, Dev Portal and
-              Dashboard. Try Tyk today!
             homepage_url: https://tyk.io/
             logo: tyk_technologies_ltd.svg
-            twitter: https://twitter.com/tyk_io
+            description: Our open source API Gateway is fast, scalable and modern. We offer an API Management Platform with an API Gateway, API Analytics, Dev Portal and Dashboard. Try Tyk today!
             crunchbase: https://www.crunchbase.com/organization/tyk-io
+            twitter: https://twitter.com/tyk_io
             extra:
               linkedin_url: https://www.linkedin.com/company/tyk
       - subcategory:
@@ -360,199 +293,144 @@ landscape:
         items:
           - item:
             name: apiaddicts
-            description: >-
-              Web del grupo de APIAddicts, portal que aglutina el grupo español más importante alrededor de las APIs. Aquí se irán mostrando los vídeos y las
-              presentaciones
             homepage_url: https://apiaddicts.org/
             logo: apiaddicts.svg
+            description: Web del grupo de APIAddicts, portal que aglutina el grupo español más importante alrededor de las APIs. Aquí se irán mostrando los vídeos y las presentaciones
             twitter: https://twitter.com/APIAddicts
-            extra:
-              linkedin_url: https://www.linkedin.com/company/apiaddicts
             organization:
               name: apiaddicts
               linkedin: https://www.linkedin.com/company/apiaddicts
+            extra:
+              linkedin_url: https://www.linkedin.com/company/apiaddicts
           - item:
             name: Feynman Foundation
-            description: Quantum for Humanity - The Feynman Foundation is a public utility foundation (PUF).
             homepage_url: https://feynmanfoundation.org/
             logo: feynman_foundation.svg
+            description: Quantum for Humanity - The Feynman Foundation is a public utility foundation (PUF).
             twitter: https://twitter.com/FeynmanPUF
-            extra:
-              linkedin_url: https://www.linkedin.com/company/feynman-foundation
             organization:
               name: Feynman Foundation
               linkedin: https://www.linkedin.com/company/feynman-foundation
+            extra:
+              linkedin_url: https://www.linkedin.com/company/feynman-foundation
           - item:
             name: Geek.Zone
-            description: >-
-              Geek.Zone is the community for geeks! We come together through our shared interests, so no matter what your hobby or passion is, you are sure to
-              find likeminded people at Geek.Zone.
             homepage_url: https://geek.zone/
             logo: geek.svg
-            twitter: https://twitter.com/GeekZone
+            description: Geek.Zone is the community for geeks! We come together through our shared interests, so no matter what your hobby or passion is, you are sure to find likeminded people at Geek.Zone.
             crunchbase: https://www.crunchbase.com/organization/geek-zone
+            twitter: https://twitter.com/GeekZone
             extra:
               linkedin_url: https://www.linkedin.com/company/geekzonehq
           - item:
             name: Her Majesty's Government
-            description: >-
-              About us
-
-              The Government Digital Service is a team within the Cabinet Office tasked with transforming government digital services. Our responsibilities
-              include building GOV.UK, the single website for government, designed to make information and services clear and accessible. We also aim to: 
-
-
-              - build new digital services
-
-              - make sure people can sign in to government services safely and easily 
-
-              - choose the right technology for government 
-
-              - improve the way government buys digital and technology services
-
-              - explore government platforms and common technology solutions – Government as a Platform
-
-
-              Company details
-
-              Website
-
-              https://gds.blog.gov.uk/
-
-              Year founded
-
-              2011
-
-
-              Company size
-
-              501-1,000 employees
-
-              Specialties
-
-              Digital Services, Digital Government, Digital Communications, and Agile Delivery
             homepage_url: https://gov.uk/
             logo: her_majesty_s_government.svg
-            twitter: https://twitter.com/GOVUK
+            description: |-
+              About us
+              The Government Digital Service is a team within the Cabinet Office tasked with transforming government digital services. Our responsibilities include building GOV.UK, the single website for government, designed to make information and services clear and accessible. We also aim to: 
+
+              - build new digital services
+              - make sure people can sign in to government services safely and easily 
+              - choose the right technology for government 
+              - improve the way government buys digital and technology services
+              - explore government platforms and common technology solutions – Government as a Platform
+
+              Company details
+              Website
+              https://gds.blog.gov.uk/
+              Year founded
+              2011
+
+              Company size
+              501-1,000 employees
+              Specialties
+              Digital Services, Digital Government, Digital Communications, and Agile Delivery
             crunchbase: https://www.crunchbase.com/organization/uk-government
+            twitter: https://twitter.com/GOVUK
           - item:
             name: High School Technology Services
-            description: >-
-              OUR MISSION AND VALUES
-
-              Our future lies in the hands of students and teenagers. Educating a teenager is equivalent to educating a family and that in turn is equivalent to
-              educating the whole society. We strive to provide the highest quality information technology services to high schools, teenagers, and adults. From
-              creating websites to building computer labs, from offering counseling sessions to designing preparation programs, we aim to provide an assortment
-              of services to support the dreams of these teenagers, their parents and the schools.
-
-
-              our Mission
-
-              Our mission is to provide high schools with resources and facilities to foster student-teacher interactions and parent-teacher relationships to
-              improve student performance and high school efficiency.
-
-
-              our Values
-
-              Tangible Impacts: We believe in sincere and selfless contributions to improve the quality of education and youth life.
-
-              Simplicity: We agree with what Leonardo De Vinci says "Simplicity is the ultimate sophistication."
-
-              Honesty: We hold honesty in high regard because only true work can have a real impact.
-
-              Kindness: We sincerely believe in the power of goodness and kindness as Mark Twain put it "Kindness is a language that the deaf can hear and the
-              blind can see."
-
-              Genuine Friendship: We are genuinely committed to educating all students regardless of their age, nationality, gender, race, and background.
             homepage_url: https://myhsts.org/
             logo: high_school_technology_services.svg
-            twitter: https://twitter.com/MyHSTS
+            description: |-
+              OUR MISSION AND VALUES
+              Our future lies in the hands of students and teenagers. Educating a teenager is equivalent to educating a family and that in turn is equivalent to educating the whole society. We strive to provide the highest quality information technology services to high schools, teenagers, and adults. From creating websites to building computer labs, from offering counseling sessions to designing preparation programs, we aim to provide an assortment of services to support the dreams of these teenagers, their parents and the schools.
+
+              our Mission
+              Our mission is to provide high schools with resources and facilities to foster student-teacher interactions and parent-teacher relationships to improve student performance and high school efficiency.
+
+              our Values
+              Tangible Impacts: We believe in sincere and selfless contributions to improve the quality of education and youth life.
+              Simplicity: We agree with what Leonardo De Vinci says "Simplicity is the ultimate sophistication."
+              Honesty: We hold honesty in high regard because only true work can have a real impact.
+              Kindness: We sincerely believe in the power of goodness and kindness as Mark Twain put it "Kindness is a language that the deaf can hear and the blind can see."
+              Genuine Friendship: We are genuinely committed to educating all students regardless of their age, nationality, gender, race, and background.
             crunchbase: https://www.crunchbase.com/organization/high-school-technical-services
+            twitter: https://twitter.com/MyHSTS
           - item:
             name: ISA Research Group
-            description: >-
-              ISA is the Research Group of Applied Software Engineering composed by research staff of the Department Computer Languages and Systems of the
-              University of Sevilla.
             homepage_url: https://isa.us.es/
             logo: isa_research_group.svg
-            twitter: https://twitter.com/unisevilla
+            description: ISA is the Research Group of Applied Software Engineering composed by research staff of the Department Computer Languages and Systems of the University of Sevilla.
             crunchbase: https://www.crunchbase.com/organization/university-of-seville
+            twitter: https://twitter.com/unisevilla
             extra:
               linkedin_url: https://www.linkedin.com/company/universidad-de-sevilla
           - item:
             name: NHSX
-            description: >-
-              The NHS in England, NHS Scotland, NHS Wales, and the affiliated Health and Social Care in Northern Ireland were established together in 1948 as
-              one of the major social reforms following the Second World War.
-
-
-              Overview
-
-              NHSX - the future of technology within the Health and Social Care space.
-
-
-              Website https://twitter.com/NHSX Industry Government Administration Company size 51-200 employees Type Government Agency Founded 2019 Specialties
-              Technology and HealthTech
             homepage_url: https://nhs.net/
             logo: nhsx.svg
-            extra:
-              linkedin_url: https://www.linkedin.com/company/nhs-trust
+            description: |-
+              The NHS in England, NHS Scotland, NHS Wales, and the affiliated Health and Social Care in Northern Ireland were established together in 1948 as one of the major social reforms following the Second World War.
+
+              Overview
+              NHSX - the future of technology within the Health and Social Care space.
+
+              Website https://twitter.com/NHSX Industry Government Administration Company size 51-200 employees Type Government Agency Founded 2019 Specialties Technology and HealthTech
             organization:
               name: NHSX
               linkedin: https://www.linkedin.com/company/nhs-trust
+            extra:
+              linkedin_url: https://www.linkedin.com/company/nhs-trust
           - item:
             name: Ocean Networks Canada
-            description: >-
-              Ocean Networks Canada is a University of Victoria initiative that operates the NEPTUNE and VENUS cabled ocean observatories in the northeast
-              Pacific Ocean and the Salish Sea.
             homepage_url: https://oceannetworks.ca/
             logo: ocean_networks_canada.svg
-            twitter: https://twitter.com/Ocean_Networks
+            description: Ocean Networks Canada is a University of Victoria initiative that operates the NEPTUNE and VENUS cabled ocean observatories in the northeast Pacific Ocean and the Salish Sea.
             crunchbase: https://www.crunchbase.com/organization/ocean-networks-canada
+            twitter: https://twitter.com/Ocean_Networks
             extra:
               linkedin_url: https://www.linkedin.com/company/ocean-networks-canada
           - item:
             name: OpenTravel Alliance
-            description: >-
-              The OpenTravel Alliance is passionate about solving the problems inherent with connecting multiple systems within the complex travel distribution
-              arena.
-
-
-              OpenTravel’s mission is to engineer specifications to ensure traveler and supplier information flow smoothly throughout travel, tourism and
-              hospitality. OpenTravel creates, expands and drives adoption of open specifications, including but not limited to the use of XML, for the
-              electronic exchange of business information among all sectors of the travel industry.
-
-
-              OpenTravel is comprised of companies representing airlines, car rental firms, hotels, cruise lines, railways, leisure suppliers, service
-              providers, tour operators, travel agencies, solutions providers, technology companies and distributors. Tens of thousands of OpenTravel message
-              structures are in use, carrying tens of millions of messages between trading partners every day.
-
-
-              OpenTravel is a not-for-profit trade association, founded in 1999 by travel companies, with a primary focus on the creation of electronic message
-              structures to facilitate communication between the disparate systems in the global travel industry. Our members actually do the work of
-              identifying what messages are needed, prioritizing the work and creating the messages
             homepage_url: https://opentravel.org/
             logo: opentravel_alliance.svg
-            twitter: https://twitter.com/OpenTravel
+            description: |-
+              The OpenTravel Alliance is passionate about solving the problems inherent with connecting multiple systems within the complex travel distribution arena.
+
+              OpenTravel’s mission is to engineer specifications to ensure traveler and supplier information flow smoothly throughout travel, tourism and hospitality. OpenTravel creates, expands and drives adoption of open specifications, including but not limited to the use of XML, for the electronic exchange of business information among all sectors of the travel industry.
+
+              OpenTravel is comprised of companies representing airlines, car rental firms, hotels, cruise lines, railways, leisure suppliers, service providers, tour operators, travel agencies, solutions providers, technology companies and distributors. Tens of thousands of OpenTravel message structures are in use, carrying tens of millions of messages between trading partners every day.
+
+              OpenTravel is a not-for-profit trade association, founded in 1999 by travel companies, with a primary focus on the creation of electronic message structures to facilitate communication between the disparate systems in the global travel industry. Our members actually do the work of identifying what messages are needed, prioritizing the work and creating the messages
             crunchbase: https://www.crunchbase.com/organization/open-travel
+            twitter: https://twitter.com/OpenTravel
             extra:
               linkedin_url: https://www.linkedin.com/company/opentravel
           - item:
             name: udgi foundation
-            description: >-
-              Our Reach UDG INDIA Foundation(UDAAN DIGITAL GENERATION INDIA FOUNDATION) is a not-for profit organization that has been working since 2015 (NGO
-              REG 2022) with the elementary education system in rural areas. UDG INDIA Foundation Group Of CSC VLE .UDG I...
             homepage_url: https://udgifoundation.org/
             logo: udgi_foundation.svg
+            description: Our Reach UDG INDIA Foundation(UDAAN DIGITAL GENERATION INDIA FOUNDATION) is a not-for profit organization that has been working since 2015 (NGO REG 2022) with the elementary education system in rural areas. UDG INDIA Foundation Group Of CSC VLE .UDG I...
             twitter: https://twitter.com/udgi_foundation
             organization:
               name: udgi foundation
           - item:
             name: University of Limerick
-            description: The University of Limerick is a higher education institution in Limerick, Ireland.
             homepage_url: https://ul.ie/
             logo: university_of_limerick.svg
-            twitter: https://twitter.com/UL
+            description: The University of Limerick is a higher education institution in Limerick, Ireland.
             crunchbase: https://www.crunchbase.com/organization/university-of-limerick-2
+            twitter: https://twitter.com/UL
             extra:
               linkedin_url: https://www.linkedin.com/company/university-of-limerick

@@ -58,15 +58,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/bump-sh
           - item:
-            name: eBay, Inc.
-            homepage_url: https://ebay.com/
-            logo: ebay_inc.svg
-            description: eBay is a multinational internet consumer-to-consumer corporation with operations localized in over 30 countries. The company manages eBay.com, an online auction and shopping website where people and businesses can buy and sell a variety of goods and services worldwide. The company also owns and operates the websites Half.com, StubHub, and PayPal.
-            crunchbase: https://www.crunchbase.com/organization/ebay
-            twitter: https://twitter.com/eBay
-            extra:
-              linkedin_url: https://www.linkedin.com/company/ebay
-          - item:
             name: Getting APIs to Work
             homepage_url: https://gettingapistowork.io/
             logo: getting_apis_to_work.svg
@@ -169,24 +160,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/platformatic
           - item:
-            name: Postman
-            homepage_url: https://postman.com/
-            logo: postman.svg
-            description: Postman is an API development and testing solution created by Postdot Technologies in 2014 and is headquartered in San Francisco, California.
-            crunchbase: https://www.crunchbase.com/organization/postman
-            twitter: https://twitter.com/getpostman
-            extra:
-              linkedin_url: https://www.linkedin.com/company/postman-platform
-          - item:
-            name: Red Hat, Inc.
-            homepage_url: https://redhat.com/
-            logo: red_hat_inc.svg
-            description: Red Hat was established in 1993 and is headquartered in Raleigh, North Carolina. Red Hat is the provider of open source software solutions, using a community-powered approach to provide reliable and high-performing cloud, Linux, middleware, storage, and virtualization technologies. Red Hat also offers support, training, and consulting services. As the connective hub in a global network of enterprises, partners, and open source communities, Red Hat helps create relevant, innovative technologies that liberate resources for growth and prepare customers for the future of IT.
-            crunchbase: https://www.crunchbase.com/organization/red-hat
-            twitter: https://twitter.com/RedHat
-            extra:
-              linkedin_url: https://www.linkedin.com/company/red-hat
-          - item:
             name: Redocly Inc
             homepage_url: https://redocly.com/
             logo: redocly_inc.svg
@@ -270,15 +243,6 @@ landscape:
             twitter: https://twitter.com/SmartBear
             extra:
               linkedin_url: https://www.linkedin.com/company/smartbear-software
-          - item:
-            name: Speakeasy Development, Inc.
-            homepage_url: https://speakeasyapi.dev/
-            logo: speakeasy_development_inc.svg
-            description: World-class Developer Experience for your API.    🐝 https://t.co/txArmj2W8x 🐝
-            crunchbase: https://www.crunchbase.com/organization/speakeasy-1055
-            twitter: https://twitter.com/speakeasydev
-            extra:
-              linkedin_url: https://www.linkedin.com/company/speakeasyapi
           - item:
             name: Tyk Technologies Ltd.
             homepage_url: https://tyk.io/

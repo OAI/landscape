@@ -58,6 +58,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/bump-sh
           - item:
+            name: eBay, Inc.
+            homepage_url: https://ebay.com/
+            logo: ebay_inc.svg
+            description: eBay is a multinational internet consumer-to-consumer corporation with operations localized in over 30 countries. The company manages eBay.com, an online auction and shopping website where people and businesses can buy and sell a variety of goods and services worldwide. The company also owns and operates the websites Half.com, StubHub, and PayPal.
+            crunchbase: https://www.crunchbase.com/organization/ebay
+            twitter: https://twitter.com/eBay
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ebay
+          - item:
             name: Getting APIs to Work
             homepage_url: https://gettingapistowork.io/
             logo: getting_apis_to_work.svg

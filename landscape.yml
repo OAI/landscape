@@ -76,16 +76,6 @@ landscape:
             organization:
               name: Getting APIs to Work
           - item:
-            name: Gitbook
-            homepage_url: https://gitbook.com/
-            logo: gitbook.svg
-            description: GitBook is a modern documentation platform that makes it easy to research, plan, and document products, from start to ship. It helps teams centralize and share knowledge, from API references to code guidelines and product overviews.
-            organization:
-              name: Gitbook
-              linkedin: https://www.linkedin.com/company/gitbook
-            extra:
-              linkedin_url: https://www.linkedin.com/company/gitbook
-          - item:
             name: Google LLC
             homepage_url: https://google.com/
             logo: google_llc.svg

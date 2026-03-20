@@ -6,6 +6,15 @@ landscape:
         name: General
         items:
           - item:
+            name: 42Crunch
+            homepage_url: https://42crunch.com/
+            logo: 42crunch.svg
+            description: less than 10 employees... OAI $500 + nonLF member fee or $5,000 LF Silver membership.  $1,000 total or $5,500 total..
+            crunchbase: https://www.crunchbase.com/organization/42crunch
+            twitter: https://twitter.com/42crunch
+            extra:
+              linkedin_url: https://www.linkedin.com/company/42crunch
+          - item:
             name: Apideck
             homepage_url: https://apideck.com/
             logo: apideck.svg
@@ -41,6 +50,17 @@ landscape:
             organization:
               name: Briscola Inc.
           - item:
+            name: bump.sh
+            homepage_url: https://bump.sh/
+            logo: bump.svg
+            description: "Create a powerful human-centered workflow for your APIs. Bump documents, diffs, and validates your API changes continuously. It lets you focus on what's important: building your product."
+            twitter: https://twitter.com/bump_hq
+            organization:
+              name: bump.sh
+              linkedin: https://www.linkedin.com/company/bump-sh
+            extra:
+              linkedin_url: https://www.linkedin.com/company/bump-sh
+          - item:
             name: eBay, Inc.
             homepage_url: https://ebay.com/
             logo: ebay_inc.svg
@@ -49,6 +69,12 @@ landscape:
             twitter: https://twitter.com/eBay
             extra:
               linkedin_url: https://www.linkedin.com/company/ebay
+          - item:
+            name: Getting APIs to Work
+            homepage_url: https://gettingapistowork.io/
+            logo: getting_apis_to_work.svg
+            organization:
+              name: Getting APIs to Work
           - item:
             name: Google LLC
             homepage_url: https://google.com/
@@ -82,6 +108,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ibm
           - item:
+            name: Jentic Technology Limited
+            homepage_url: https://jentic.com/
+            logo: jentic_technology_limited.svg
+            description: Jentic is building the bridge between the AI World and the API World, providing agents with targeted, repeatable, and efficient workflows. Jentic agents are built on OpenAPI and Arazzo, making these specifications crucial building blocks in the Jentic platform.
+            crunchbase: https://www.crunchbase.com/organization/jentic-technology
+          - item:
             name: Kong Inc.
             homepage_url: https://konghq.com/
             logo: kong_inc.svg
@@ -91,14 +123,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/mashape
           - item:
-            name: Level 250, Inc.
-            homepage_url: https://level250.com/
-            logo: level_250_inc.svg
-            description: API consulting
-            crunchbase: https://www.crunchbase.com/organization/level-250
-            twitter: https://twitter.com/level_250
+            name: LFOD Integration Services
+            homepage_url: https://lfod.io/
+            logo: lfod_integration_services.svg
+            description: LFOD Integration Services provides technical and operational professional services to connect transportation networks to reduce delays and provide a safe and reliable journey for drivers.  LFOD is an ambassador for open APIs and is a proud supporter of the OPEN API Initiative
+            organization:
+              name: LFOD Integration Services
+              linkedin: https://www.linkedin.com/company/mobility-connectors
             extra:
-              linkedin_url: https://www.linkedin.com/company/level-250
+              linkedin_url: https://www.linkedin.com/company/mobility-connectors
           - item:
             name: Microsoft Corporation
             homepage_url: https://microsoft.com/

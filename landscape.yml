@@ -41,17 +41,6 @@ landscape:
             organization:
               name: Briscola Inc.
           - item:
-            name: bump.sh
-            homepage_url: https://bump.sh/
-            logo: bump.svg
-            description: "Create a powerful human-centered workflow for your APIs. Bump documents, diffs, and validates your API changes continuously. It lets you focus on what's important: building your product."
-            twitter: https://twitter.com/bump_hq
-            organization:
-              name: bump.sh
-              linkedin: https://www.linkedin.com/company/bump-sh
-            extra:
-              linkedin_url: https://www.linkedin.com/company/bump-sh
-          - item:
             name: eBay, Inc.
             homepage_url: https://ebay.com/
             logo: ebay_inc.svg

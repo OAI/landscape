@@ -102,6 +102,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ibm
           - item:
+            name: Jentic Technology Limited
+            homepage_url: https://jentic.com/
+            logo: jentic_technology_limited.svg
+            description: Jentic is building the bridge between the AI World and the API World, providing agents with targeted, repeatable, and efficient workflows. Jentic agents are built on OpenAPI and Arazzo, making these specifications crucial building blocks in the Jentic platform.
+            crunchbase: https://www.crunchbase.com/organization/jentic-technology
+          - item:
             name: Kong Inc.
             homepage_url: https://konghq.com/
             logo: kong_inc.svg
@@ -110,6 +116,15 @@ landscape:
             twitter: https://twitter.com/thekonginc
             extra:
               linkedin_url: https://www.linkedin.com/company/mashape
+          - item:
+            name: Level 250, Inc.
+            homepage_url: https://level250.com/
+            logo: level_250_inc.svg
+            description: API consulting
+            crunchbase: https://www.crunchbase.com/organization/level-250
+            twitter: https://twitter.com/level_250
+            extra:
+              linkedin_url: https://www.linkedin.com/company/level-250
           - item:
             name: LFOD Integration Services
             homepage_url: https://lfod.io/

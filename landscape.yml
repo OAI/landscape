@@ -70,6 +70,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ebay
           - item:
+            name: Getting APIs to Work
+            homepage_url: https://gettingapistowork.io/
+            logo: getting_apis_to_work.svg
+            organization:
+              name: Getting APIs to Work
+          - item:
             name: Google LLC
             homepage_url: https://google.com/
             logo: google_llc.svg

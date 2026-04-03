@@ -6,6 +6,15 @@ landscape:
         name: General
         items:
           - item:
+            name: 42Crunch
+            homepage_url: https://42crunch.com/
+            logo: 42crunch.svg
+            description: less than 10 employees... OAI $500 + nonLF member fee or $5,000 LF Silver membership.  $1,000 total or $5,500 total..
+            crunchbase: https://www.crunchbase.com/organization/42crunch
+            twitter: https://twitter.com/42crunch
+            extra:
+              linkedin_url: https://www.linkedin.com/company/42crunch
+          - item:
             name: Apideck
             homepage_url: https://apideck.com/
             logo: apideck.svg
@@ -49,12 +58,6 @@ landscape:
             twitter: https://twitter.com/eBay
             extra:
               linkedin_url: https://www.linkedin.com/company/ebay
-          - item:
-            name: Getting APIs to Work
-            homepage_url: https://gettingapistowork.io/
-            logo: getting_apis_to_work.svg
-            organization:
-              name: Getting APIs to Work
           - item:
             name: Google LLC
             homepage_url: https://google.com/

@@ -16,15 +16,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/apideck
           - item:
-            name: AVAP
-            homepage_url: https://avapsphere.com/
-            logo: avap.svg
-            description: |-
-              AVAP is a technology stack designed to standardize and simplify the full API lifecycle, from design and development to deployment and evolution. At its core is AVAP (Advanced Virtual API Programming), a purpose-built language for creating virtual APIs that abstract infrastructure complexity and decouple APIs from runtime environments.
-
-              Powered by Brunix, AVAP’s AI engine, the platform enhances automation across the lifecycle by optimizing processes, assisting decision-making, and anticipating operational needs. Built on open standards and designed for interoperability, the AVAP Sphere integrates seamlessly with existing tools and technologies, enabling organizations to build scalable, secure, and efficient API ecosystems across cloud, on-premise, and hybrid environments.
-            crunchbase: https://www.crunchbase.com/organization/101obex
-          - item:
             name: Bloomberg Finance L.P.
             homepage_url: https://techatbloomberg.com/
             logo: bloomberg_finance_l_p.svg
@@ -33,6 +24,13 @@ landscape:
             twitter: https://twitter.com/business
             extra:
               linkedin_url: https://www.linkedin.com/company/bloomberg-bna
+          - item:
+            name: Briscola Inc.
+            homepage_url: https://briscola-api.com/
+            logo: briscola_inc.svg
+            description: Briscola Inc. provides advanced API management services and consulting to support digital services and microservices with secure and scalable API platforms.
+            organization:
+              name: Briscola Inc.
           - item:
             name: bump.sh
             homepage_url: https://bump.sh/
@@ -109,6 +107,16 @@ landscape:
             twitter: https://twitter.com/level_250
             extra:
               linkedin_url: https://www.linkedin.com/company/level-250
+          - item:
+            name: LFOD Integration Services
+            homepage_url: https://lfod.io/
+            logo: lfod_integration_services.svg
+            description: LFOD Integration Services provides technical and operational professional services to connect transportation networks to reduce delays and provide a safe and reliable journey for drivers.  LFOD is an ambassador for open APIs and is a proud supporter of the OPEN API Initiative
+            organization:
+              name: LFOD Integration Services
+              linkedin: https://www.linkedin.com/company/mobility-connectors
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mobility-connectors
           - item:
             name: Microsoft Corporation
             homepage_url: https://microsoft.com/

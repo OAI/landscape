@@ -10,9 +10,6 @@ landscape:
             homepage_url: https://apideck.com/
             logo: apideck.svg
             description: Apideck redefines API integration, enabling developers to build integrations 100 times faster through a single API.
-            organization:
-              name: Apideck
-              linkedin: https://www.linkedin.com/company/apideck
             extra:
               linkedin_url: https://www.linkedin.com/company/apideck
           - item:
@@ -38,17 +35,12 @@ landscape:
             homepage_url: https://briscola-api.com/
             logo: briscola_inc.svg
             description: Briscola Inc. provides advanced API management services and consulting to support digital services and microservices with secure and scalable API platforms.
-            organization:
-              name: Briscola Inc.
           - item:
             name: bump.sh
             homepage_url: https://bump.sh/
             logo: bump.svg
             description: "Create a powerful human-centered workflow for your APIs. Bump documents, diffs, and validates your API changes continuously. It lets you focus on what's important: building your product."
             twitter: https://twitter.com/bump_hq
-            organization:
-              name: bump.sh
-              linkedin: https://www.linkedin.com/company/bump-sh
             extra:
               linkedin_url: https://www.linkedin.com/company/bump-sh
           - item:
@@ -108,6 +100,22 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/mashape
           - item:
+            name: Level 250, Inc.
+            homepage_url: https://level250.com/
+            logo: level_250_inc.svg
+            description: API consulting
+            crunchbase: https://www.crunchbase.com/organization/level-250
+            twitter: https://twitter.com/level_250
+            extra:
+              linkedin_url: https://www.linkedin.com/company/level-250
+          - item:
+            name: LFOD Integration Services
+            homepage_url: https://lfod.io/
+            logo: lfod_integration_services.svg
+            description: LFOD Integration Services provides technical and operational professional services to connect transportation networks to reduce delays and provide a safe and reliable journey for drivers.  LFOD is an ambassador for open APIs and is a proud supporter of the OPEN API Initiative
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mobility-connectors
+          - item:
             name: Microsoft Corporation
             homepage_url: https://microsoft.com/
             logo: microsoft_corporation.svg
@@ -122,9 +130,6 @@ landscape:
             logo: platformatic.svg
             description: Platformatic is a company that offers a 'batteries included' developer experience with best practices for building APIs, including REST/OpenAPI or GraphQL with more to come.
             twitter: https://twitter.com/platformatic
-            organization:
-              name: Platformatic
-              linkedin: https://www.linkedin.com/company/platformatic
             extra:
               linkedin_url: https://www.linkedin.com/company/platformatic
           - item:
@@ -132,9 +137,6 @@ landscape:
             homepage_url: https://redocly.com/
             logo: redocly_inc.svg
             description: Redocly is a company that provides a suite of API design and documentation tools for API producers and consumers.
-            organization:
-              name: Redocly Inc
-              linkedin: https://www.linkedin.com/company/redocly
             extra:
               linkedin_url: https://www.linkedin.com/company/redocly
           - item:
@@ -160,9 +162,6 @@ landscape:
             homepage_url: https://scalar.com/
             logo: scalar.svg
             description: Scalar is a company that provides Document, Test, and Discover APIs for developers to easily document, discover, and test APIs using their platform.
-            organization:
-              name: Scalar
-              linkedin: https://www.linkedin.com/company/scalar-inc
             extra:
               linkedin_url: https://www.linkedin.com/company/scalar-inc
           - item:
@@ -229,9 +228,6 @@ landscape:
             logo: apiaddicts.svg
             description: Web del grupo de APIAddicts, portal que aglutina el grupo español más importante alrededor de las APIs. Aquí se irán mostrando los vídeos y las presentaciones
             twitter: https://twitter.com/APIAddicts
-            organization:
-              name: apiaddicts
-              linkedin: https://www.linkedin.com/company/apiaddicts
             extra:
               linkedin_url: https://www.linkedin.com/company/apiaddicts
           - item:
@@ -240,9 +236,6 @@ landscape:
             logo: feynman_foundation.svg
             description: Quantum for Humanity - The Feynman Foundation is a public utility foundation (PUF).
             twitter: https://twitter.com/FeynmanPUF
-            organization:
-              name: Feynman Foundation
-              linkedin: https://www.linkedin.com/company/feynman-foundation
             extra:
               linkedin_url: https://www.linkedin.com/company/feynman-foundation
           - item:
@@ -319,9 +312,6 @@ landscape:
               NHSX - the future of technology within the Health and Social Care space.
 
               Website https://twitter.com/NHSX Industry Government Administration Company size 51-200 employees Type Government Agency Founded 2019 Specialties Technology and HealthTech
-            organization:
-              name: NHSX
-              linkedin: https://www.linkedin.com/company/nhs-trust
             extra:
               linkedin_url: https://www.linkedin.com/company/nhs-trust
           - item:
@@ -355,8 +345,6 @@ landscape:
             logo: udgi_foundation.svg
             description: Our Reach UDG INDIA Foundation(UDAAN DIGITAL GENERATION INDIA FOUNDATION) is a not-for profit organization that has been working since 2015 (NGO REG 2022) with the elementary education system in rural areas. UDG INDIA Foundation Group Of CSC VLE .UDG I...
             twitter: https://twitter.com/udgi_foundation
-            organization:
-              name: udgi foundation
           - item:
             name: University of Limerick
             homepage_url: https://ul.ie/

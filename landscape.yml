@@ -6,6 +6,15 @@ landscape:
         name: General
         items:
           - item:
+            name: 42Crunch
+            homepage_url: https://42crunch.com/
+            logo: 42crunch.svg
+            description: less than 10 employees... OAI $500 + nonLF member fee or $5,000 LF Silver membership.  $1,000 total or $5,500 total..
+            crunchbase: https://www.crunchbase.com/organization/42crunch
+            twitter: https://twitter.com/42crunch
+            extra:
+              linkedin_url: https://www.linkedin.com/company/42crunch
+          - item:
             name: Apideck
             homepage_url: https://apideck.com/
             logo: apideck.svg
@@ -16,7 +25,10 @@ landscape:
             name: AVAP
             homepage_url: https://avapsphere.com/
             logo: avap.svg
-            description: "AVAP is a technology stack designed to standardize and simplify the full API lifecycle, from design and development to deployment and evolution. At its core is AVAP (Advanced Virtual API Programming), a purpose-built language for creating virtual APIs that abstract infrastructure complexity and decouple APIs from runtime environments.\n\nPowered by Brunix, AVAP’s AI engine, the platform enhances automation across the lifecycle by optimizing processes, assisting decision-making, and anticipating operational needs. Built on open standards and designed for interoperability, the AVAP Sphere integrates seamlessly with existing tools and technologies, enabling organizations to build scalable, secure, and efficient API ecosystems across cloud, on-premise, and hybrid environments."
+            description: |-
+              AVAP is a technology stack designed to standardize and simplify the full API lifecycle, from design and development to deployment and evolution. At its core is AVAP (Advanced Virtual API Programming), a purpose-built language for creating virtual APIs that abstract infrastructure complexity and decouple APIs from runtime environments.
+
+              Powered by Brunix, AVAP’s AI engine, the platform enhances automation across the lifecycle by optimizing processes, assisting decision-making, and anticipating operational needs. Built on open standards and designed for interoperability, the AVAP Sphere integrates seamlessly with existing tools and technologies, enabling organizations to build scalable, secure, and efficient API ecosystems across cloud, on-premise, and hybrid environments.
             crunchbase: https://www.crunchbase.com/organization/101obex
           - item:
             name: Bloomberg Finance L.P.
@@ -28,11 +40,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/bloomberg-bna
           - item:
-            name: Briscola Inc.
-            homepage_url: https://briscola-api.com/
-            logo: briscola_inc.svg
-            description: Briscola Inc. provides advanced API management services and consulting to support digital services and microservices with secure and scalable API platforms.
-          - item:
             name: eBay, Inc.
             homepage_url: https://ebay.com/
             logo: ebay_inc.svg
@@ -41,10 +48,6 @@ landscape:
             twitter: https://twitter.com/eBay
             extra:
               linkedin_url: https://www.linkedin.com/company/ebay
-          - item:
-            name: Getting APIs to Work
-            homepage_url: https://gettingapistowork.io/
-            logo: getting_apis_to_work.svg
           - item:
             name: Google LLC
             homepage_url: https://google.com/
@@ -67,7 +70,12 @@ landscape:
             name: International Business Machines Corporation
             homepage_url: https://ibm.com/
             logo: international_business_machines_corporation.svg
-            description: "Founded in 1911, International Business Machines (IBM) is a multinational computer, technology, and IT consulting corporation that manufactures and sells computer hardware and software, and offers infrastructure services, hosting services, and consulting services. They are headquartered in Armonk, New York.\n\n--- Merged Data:\n\nIBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services."
+            description: |-
+              Founded in 1911, International Business Machines (IBM) is a multinational computer, technology, and IT consulting corporation that manufactures and sells computer hardware and software, and offers infrastructure services, hosting services, and consulting services. They are headquartered in Armonk, New York.
+
+              --- Merged Data:
+
+              IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.
             crunchbase: https://www.crunchbase.com/organization/ibm
             twitter: https://twitter.com/IBM
             extra:
@@ -149,7 +157,44 @@ landscape:
             name: SmartBear Software, Inc.
             homepage_url: https://smartbear.com/
             logo: smartbear_software_inc.svg
-            description: "Specialties\n\nsoftware quality, agile development, cloud computing, mobile development, web performance monitoring, application lifecycle management, test managment, automated testing, virtualization, peer review, code review, DevOps, Web Services and API Testing, Load testing\n\n\n\nWebsite\n\nhttp://www.smartbear.com\n\n\n\nIndustry\n\nComputer Software\n\n\n\nType\n\nPrivately Held\n\n\n\nHeadquarters\n\n450 Artisan Way Somerville, MA 02145 United States\n\n\n\nCompany Size\n\n201-500 employees\n\n--- Merged Data:\n\nSmartBear Software is an American privately-held information technology company that delivers tools for application performance monitoring, software development, software testing, API testing and API management."
+            description: |-
+              Specialties
+
+              software quality, agile development, cloud computing, mobile development, web performance monitoring, application lifecycle management, test managment, automated testing, virtualization, peer review, code review, DevOps, Web Services and API Testing, Load testing
+
+
+
+              Website
+
+              http://www.smartbear.com
+
+
+
+              Industry
+
+              Computer Software
+
+
+
+              Type
+
+              Privately Held
+
+
+
+              Headquarters
+
+              450 Artisan Way Somerville, MA 02145 United States
+
+
+
+              Company Size
+
+              201-500 employees
+
+              --- Merged Data:
+
+              SmartBear Software is an American privately-held information technology company that delivers tools for application performance monitoring, software development, software testing, API testing and API management.
             crunchbase: https://www.crunchbase.com/organization/smart-bear-software
             twitter: https://twitter.com/SmartBear
             extra:
@@ -195,14 +240,45 @@ landscape:
             name: Her Majesty's Government
             homepage_url: https://gov.uk/
             logo: her_majesty_s_government.svg
-            description: "About us\nThe Government Digital Service is a team within the Cabinet Office tasked with transforming government digital services. Our responsibilities include building GOV.UK, the single website for government, designed to make information and services clear and accessible. We also aim to: \n\n- build new digital services\n- make sure people can sign in to government services safely and easily \n- choose the right technology for government \n- improve the way government buys digital and technology services\n- explore government platforms and common technology solutions – Government as a Platform\n\nCompany details\nWebsite\nhttps://gds.blog.gov.uk/\nYear founded\n2011\n\nCompany size\n501-1,000 employees\nSpecialties\nDigital Services, Digital Government, Digital Communications, and Agile Delivery"
+            description: |-
+              About us
+              The Government Digital Service is a team within the Cabinet Office tasked with transforming government digital services. Our responsibilities include building GOV.UK, the single website for government, designed to make information and services clear and accessible. We also aim to: 
+
+              - build new digital services
+              - make sure people can sign in to government services safely and easily 
+              - choose the right technology for government 
+              - improve the way government buys digital and technology services
+              - explore government platforms and common technology solutions – Government as a Platform
+
+              Company details
+              Website
+              https://gds.blog.gov.uk/
+              Year founded
+              2011
+
+              Company size
+              501-1,000 employees
+              Specialties
+              Digital Services, Digital Government, Digital Communications, and Agile Delivery
             crunchbase: https://www.crunchbase.com/organization/uk-government
             twitter: https://twitter.com/GOVUK
           - item:
             name: High School Technology Services
             homepage_url: https://myhsts.org/
             logo: high_school_technology_services.svg
-            description: "OUR MISSION AND VALUES\nOur future lies in the hands of students and teenagers. Educating a teenager is equivalent to educating a family and that in turn is equivalent to educating the whole society. We strive to provide the highest quality information technology services to high schools, teenagers, and adults. From creating websites to building computer labs, from offering counseling sessions to designing preparation programs, we aim to provide an assortment of services to support the dreams of these teenagers, their parents and the schools.\n\nour Mission\nOur mission is to provide high schools with resources and facilities to foster student-teacher interactions and parent-teacher relationships to improve student performance and high school efficiency.\n\nour Values\nTangible Impacts: We believe in sincere and selfless contributions to improve the quality of education and youth life.\nSimplicity: We agree with what Leonardo De Vinci says \"Simplicity is the ultimate sophistication.\"\nHonesty: We hold honesty in high regard because only true work can have a real impact.\nKindness: We sincerely believe in the power of goodness and kindness as Mark Twain put it \"Kindness is a language that the deaf can hear and the blind can see.\"\nGenuine Friendship: We are genuinely committed to educating all students regardless of their age, nationality, gender, race, and background."
+            description: |-
+              OUR MISSION AND VALUES
+              Our future lies in the hands of students and teenagers. Educating a teenager is equivalent to educating a family and that in turn is equivalent to educating the whole society. We strive to provide the highest quality information technology services to high schools, teenagers, and adults. From creating websites to building computer labs, from offering counseling sessions to designing preparation programs, we aim to provide an assortment of services to support the dreams of these teenagers, their parents and the schools.
+
+              our Mission
+              Our mission is to provide high schools with resources and facilities to foster student-teacher interactions and parent-teacher relationships to improve student performance and high school efficiency.
+
+              our Values
+              Tangible Impacts: We believe in sincere and selfless contributions to improve the quality of education and youth life.
+              Simplicity: We agree with what Leonardo De Vinci says "Simplicity is the ultimate sophistication."
+              Honesty: We hold honesty in high regard because only true work can have a real impact.
+              Kindness: We sincerely believe in the power of goodness and kindness as Mark Twain put it "Kindness is a language that the deaf can hear and the blind can see."
+              Genuine Friendship: We are genuinely committed to educating all students regardless of their age, nationality, gender, race, and background.
             crunchbase: https://www.crunchbase.com/organization/high-school-technical-services
             twitter: https://twitter.com/MyHSTS
           - item:
@@ -218,7 +294,13 @@ landscape:
             name: NHSX
             homepage_url: https://nhs.net/
             logo: nhsx.svg
-            description: "The NHS in England, NHS Scotland, NHS Wales, and the affiliated Health and Social Care in Northern Ireland were established together in 1948 as one of the major social reforms following the Second World War.\n\nOverview\nNHSX - the future of technology within the Health and Social Care space.\n\nWebsite https://twitter.com/NHSX Industry Government Administration Company size 51-200 employees Type Government Agency Founded 2019 Specialties Technology and HealthTech"
+            description: |-
+              The NHS in England, NHS Scotland, NHS Wales, and the affiliated Health and Social Care in Northern Ireland were established together in 1948 as one of the major social reforms following the Second World War.
+
+              Overview
+              NHSX - the future of technology within the Health and Social Care space.
+
+              Website https://twitter.com/NHSX Industry Government Administration Company size 51-200 employees Type Government Agency Founded 2019 Specialties Technology and HealthTech
             extra:
               linkedin_url: https://www.linkedin.com/company/nhs-trust
           - item:
@@ -234,7 +316,14 @@ landscape:
             name: OpenTravel Alliance
             homepage_url: https://opentravel.org/
             logo: opentravel_alliance.svg
-            description: "The OpenTravel Alliance is passionate about solving the problems inherent with connecting multiple systems within the complex travel distribution arena.\n\nOpenTravel’s mission is to engineer specifications to ensure traveler and supplier information flow smoothly throughout travel, tourism and hospitality. OpenTravel creates, expands and drives adoption of open specifications, including but not limited to the use of XML, for the electronic exchange of business information among all sectors of the travel industry.\n\nOpenTravel is comprised of companies representing airlines, car rental firms, hotels, cruise lines, railways, leisure suppliers, service providers, tour operators, travel agencies, solutions providers, technology companies and distributors. Tens of thousands of OpenTravel message structures are in use, carrying tens of millions of messages between trading partners every day.\n\nOpenTravel is a not-for-profit trade association, founded in 1999 by travel companies, with a primary focus on the creation of electronic message structures to facilitate communication between the disparate systems in the global travel industry. Our members actually do the work of identifying what messages are needed, prioritizing the work and creating the messages"
+            description: |-
+              The OpenTravel Alliance is passionate about solving the problems inherent with connecting multiple systems within the complex travel distribution arena.
+
+              OpenTravel’s mission is to engineer specifications to ensure traveler and supplier information flow smoothly throughout travel, tourism and hospitality. OpenTravel creates, expands and drives adoption of open specifications, including but not limited to the use of XML, for the electronic exchange of business information among all sectors of the travel industry.
+
+              OpenTravel is comprised of companies representing airlines, car rental firms, hotels, cruise lines, railways, leisure suppliers, service providers, tour operators, travel agencies, solutions providers, technology companies and distributors. Tens of thousands of OpenTravel message structures are in use, carrying tens of millions of messages between trading partners every day.
+
+              OpenTravel is a not-for-profit trade association, founded in 1999 by travel companies, with a primary focus on the creation of electronic message structures to facilitate communication between the disparate systems in the global travel industry. Our members actually do the work of identifying what messages are needed, prioritizing the work and creating the messages
             crunchbase: https://www.crunchbase.com/organization/open-travel
             twitter: https://twitter.com/OpenTravel
             extra:

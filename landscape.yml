@@ -36,14 +36,6 @@ landscape:
             logo: briscola_inc.svg
             description: Briscola Inc. provides advanced API management services and consulting to support digital services and microservices with secure and scalable API platforms.
           - item:
-            name: bump.sh
-            homepage_url: https://bump.sh/
-            logo: bump.svg
-            description: "Create a powerful human-centered workflow for your APIs. Bump documents, diffs, and validates your API changes continuously. It lets you focus on what's important: building your product."
-            twitter: https://twitter.com/bump_hq
-            extra:
-              linkedin_url: https://www.linkedin.com/company/bump-sh
-          - item:
             name: eBay, Inc.
             homepage_url: https://ebay.com/
             logo: ebay_inc.svg
@@ -52,6 +44,10 @@ landscape:
             twitter: https://twitter.com/eBay
             extra:
               linkedin_url: https://www.linkedin.com/company/ebay
+          - item:
+            name: Getting APIs to Work
+            homepage_url: https://gettingapistowork.io/
+            logo: getting_apis_to_work.svg
           - item:
             name: Google LLC
             homepage_url: https://google.com/

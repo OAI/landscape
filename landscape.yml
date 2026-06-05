@@ -6,15 +6,6 @@ landscape:
         name: General
         items:
           - item:
-            name: 42Crunch
-            homepage_url: https://42crunch.com/
-            logo: 42crunch.svg
-            description: less than 10 employees... OAI $500 + nonLF member fee or $5,000 LF Silver membership.  $1,000 total or $5,500 total..
-            crunchbase: https://www.crunchbase.com/organization/42crunch
-            twitter: https://twitter.com/42crunch
-            extra:
-              linkedin_url: https://www.linkedin.com/company/42crunch
-          - item:
             name: Apideck
             homepage_url: https://apideck.com/
             logo: apideck.svg
@@ -39,6 +30,11 @@ landscape:
             twitter: https://twitter.com/business
             extra:
               linkedin_url: https://www.linkedin.com/company/bloomberg-bna
+          - item:
+            name: Briscola Inc.
+            homepage_url: https://briscola-api.com/
+            logo: briscola_inc.svg
+            description: Briscola Inc. provides advanced API management services and consulting to support digital services and microservices with secure and scalable API platforms.
           - item:
             name: eBay, Inc.
             homepage_url: https://ebay.com/

@@ -40,11 +40,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/bloomberg-bna
           - item:
-            name: Briscola Inc.
-            homepage_url: https://briscola-api.com/
-            logo: briscola_inc.svg
-            description: Briscola Inc. provides advanced API management services and consulting to support digital services and microservices with secure and scalable API platforms.
-          - item:
             name: eBay, Inc.
             homepage_url: https://ebay.com/
             logo: ebay_inc.svg
@@ -53,10 +48,6 @@ landscape:
             twitter: https://twitter.com/eBay
             extra:
               linkedin_url: https://www.linkedin.com/company/ebay
-          - item:
-            name: Getting APIs to Work
-            homepage_url: https://gettingapistowork.io/
-            logo: getting_apis_to_work.svg
           - item:
             name: Google LLC
             homepage_url: https://google.com/

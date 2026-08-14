@@ -40,11 +40,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/bloomberg-bna
           - item:
-            name: Briscola Inc.
-            homepage_url: https://briscola-api.com/
-            logo: briscola_inc.svg
-            description: Briscola Inc. provides advanced API management services and consulting to support digital services and microservices with secure and scalable API platforms.
-          - item:
             name: eBay, Inc.
             homepage_url: https://ebay.com/
             logo: ebay_inc.svg
@@ -104,13 +99,6 @@ landscape:
             twitter: https://twitter.com/thekonginc
             extra:
               linkedin_url: https://www.linkedin.com/company/mashape
-          - item:
-            name: LFOD Integration Services
-            homepage_url: https://lfod.io/
-            logo: lfod_integration_services.svg
-            description: LFOD Integration Services provides technical and operational professional services to connect transportation networks to reduce delays and provide a safe and reliable journey for drivers.  LFOD is an ambassador for open APIs and is a proud supporter of the OPEN API Initiative
-            extra:
-              linkedin_url: https://www.linkedin.com/company/mobility-connectors
           - item:
             name: Microsoft Corporation
             homepage_url: https://microsoft.com/

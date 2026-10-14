@@ -82,12 +82,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ibm
           - item:
-            name: Jentic Technology Limited
-            homepage_url: https://jentic.com/
-            logo: jentic_technology_limited.svg
-            description: Jentic is building the bridge between the AI World and the API World, providing agents with targeted, repeatable, and efficient workflows. Jentic agents are built on OpenAPI and Arazzo, making these specifications crucial building blocks in the Jentic platform.
-            crunchbase: https://www.crunchbase.com/organization/jentic-technology
-          - item:
             name: Kong Inc.
             homepage_url: https://konghq.com/
             logo: kong_inc.svg
@@ -127,15 +121,6 @@ landscape:
             description: Redocly is a company that provides a suite of API design and documentation tools for API producers and consumers.
             extra:
               linkedin_url: https://www.linkedin.com/company/redocly
-          - item:
-            name: Salesforce.com, Inc.
-            homepage_url: https://salesforce.com/
-            logo: salesforce_com_inc.svg
-            description: Salesforce.com is an enterprise cloud computing company that is leading the shift to the social enterprise. Social enterprises leverage social, mobile and open cloud technologies to maximize customer support. Based on Salesforce.com's real-time, multi-tenant architecture, the company's platform and application services allow customers to create employee and customer social networks, empower small business and extend a company's social enterprise with applications.
-            crunchbase: https://www.crunchbase.com/organization/salesforce
-            twitter: https://twitter.com/salesforce
-            extra:
-              linkedin_url: https://www.linkedin.com/company/salesforce
           - item:
             name: SAP SE
             homepage_url: https://sap.com/

@@ -122,6 +122,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/redocly
           - item:
+            name: Salesforce.com, Inc.
+            homepage_url: https://salesforce.com/
+            logo: salesforce_com_inc.svg
+            description: Salesforce.com is an enterprise cloud computing company that is leading the shift to the social enterprise. Social enterprises leverage social, mobile and open cloud technologies to maximize customer support. Based on Salesforce.com's real-time, multi-tenant architecture, the company's platform and application services allow customers to create employee and customer social networks, empower small business and extend a company's social enterprise with applications.
+            crunchbase: https://www.crunchbase.com/organization/salesforce
+            twitter: https://twitter.com/salesforce
+            extra:
+              linkedin_url: https://www.linkedin.com/company/salesforce
+          - item:
             name: SAP SE
             homepage_url: https://sap.com/
             logo: sap_se.svg

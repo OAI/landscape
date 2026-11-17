@@ -35,7 +35,7 @@ landscape:
           - item:
             name: bump.sh
             homepage_url: https://bump.sh/
-            logo: bump.svg
+            logo: bump_sh.svg
             description: "Create a powerful human-centered workflow for your APIs. Bump documents, diffs, and validates your API changes continuously. It lets you focus on what's important: building your product."
             twitter: https://twitter.com/bump_hq
             extra:
@@ -225,7 +225,7 @@ landscape:
           - item:
             name: Geek.Zone
             homepage_url: https://geek.zone/
-            logo: geek.svg
+            logo: geek_zone.svg
             description: Geek.Zone is the community for geeks! We come together through our shared interests, so no matter what your hobby or passion is, you are sure to find likeminded people at Geek.Zone.
             crunchbase: https://www.crunchbase.com/organization/geek-zone
             twitter: https://twitter.com/GeekZone

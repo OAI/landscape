@@ -16,7 +16,7 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/42crunch
           - item:
             name: AVAP
-            homepage_url: https://avapsphere.com/
+            homepage_url: https://avap.ai/
             logo: avap.svg
             description: |-
               AVAP is a technology stack designed to standardize and simplify the full API lifecycle, from design and development to deployment and evolution. At its core is AVAP (Advanced Virtual API Programming), a purpose-built language for creating virtual APIs that abstract infrastructure complexity and decouple APIs from runtime environments.
@@ -32,6 +32,14 @@ landscape:
             twitter: https://twitter.com/business
             extra:
               linkedin_url: https://www.linkedin.com/company/bloomberg-bna
+          - item:
+            name: bump.sh
+            homepage_url: https://bump.sh/
+            logo: bump_sh.svg
+            description: "Create a powerful human-centered workflow for your APIs. Bump documents, diffs, and validates your API changes continuously. It lets you focus on what's important: building your product."
+            twitter: https://twitter.com/bump_hq
+            extra:
+              linkedin_url: https://www.linkedin.com/company/bump-sh
           - item:
             name: eBay, Inc.
             homepage_url: https://ebay.com/

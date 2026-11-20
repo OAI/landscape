@@ -19,9 +19,9 @@ landscape:
             homepage_url: https://avap.ai/
             logo: avap.svg
             description: |-
-              AVAP is a technology stack designed to standardize and simplify the full API lifecycle, from design and development to deployment and evolution. At its core is AVAP (Advanced Virtual API Programming), a purpose-built language for creating virtual APIs that abstract infrastructure complexity and decouple APIs from runtime environments.
+              AVAP is a technology platform for building, deploying, and operating complete software systems. It unifies backend development, business logic, databases, APIs, integrations, AI agents, orchestration, testing, security, and governance in one platform.
 
-              Powered by Brunix, AVAP’s AI engine, the platform enhances automation across the lifecycle by optimizing processes, assisting decision-making, and anticipating operational needs. Built on open standards and designed for interoperability, the AVAP Sphere integrates seamlessly with existing tools and technologies, enabling organizations to build scalable, secure, and efficient API ecosystems across cloud, on-premise, and hybrid environments.
+              Its universal architecture enables humans and AI agents to work together across the software lifecycle, supporting any programming language, development environment, and integration protocol without replacing existing technology stacks. With a unified runtime and control plane, AVAP supports cloud, on-premises, edge, and hybrid environments, helping organizations reduce complexity, accelerate innovation, and lower operational costs.
             crunchbase: https://www.crunchbase.com/organization/101obex
           - item:
             name: Bloomberg Finance L.P.

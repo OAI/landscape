@@ -1,4 +1,6 @@
-landscapeMemberClasses: 
+landscapeMemberClasses:
+  - name: Participating Membership - LFNM
+    category: General
   - name: Participating Membership
     category: General
   - name: Academic or Non-Profit Membership
